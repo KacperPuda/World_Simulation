@@ -1,0 +1,34 @@
+lis,3,2,3,0
+lis,9,0,3,0
+wilk,6,9,9,0
+wilk,8,2,9,0
+wilk,9,7,9,0
+cyber-owca,0,3,11,0
+owca,0,6,4,0
+czlowiek,1,4,5,0,5,true
+owca,2,6,4,0
+owca,2,7,4,0
+antylopa,3,0,4,0
+owca,4,6,4,0
+antylopa,7,1,4,0
+owca,7,8,4,0
+owca,8,1,4,0
+cyber-owca,8,8,11,0
+antylopa,9,2,4,0
+antylopa,9,4,4,0
+zolw,1,5,2,0
+zolw,6,7,2,0
+barszcz sosnowskiego,1,3,10,0
+barszcz sosnowskiego,1,8,10,0
+trawa,2,1,0,0
+barszcz sosnowskiego,2,5,10,0
+trawa,3,1,0,0
+wilcze jagody,3,8,99,0
+trawa,4,0,0,0
+mlecz,4,1,0,0
+barszcz sosnowskiego,4,8,10,0
+wilcze jagody,4,9,99,0
+guarana,5,0,0,0
+mlecz,6,2,0,0
+trawa,7,2,0,0
+wilcze jagody,7,6,99,0
